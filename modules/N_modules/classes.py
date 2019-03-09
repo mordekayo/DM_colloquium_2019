@@ -8,6 +8,7 @@ class Natural (list):
         self.n += 1
         super().append(x)
     
+    
     def pop(self, i):
         if self.n > 0:
             self.n -= 1
