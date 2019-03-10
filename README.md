@@ -6,4 +6,4 @@
 
 Список группы: https://docs.google.com/document/d/1JStQPXdxJcTnWMfPJogqP3Ny7d7vGfIXmrDK2lgYKFs
 
-Задачи и ход работы: https://docs.google.com/document/d/1Nxjb7s1fHdDwgnxzWCL98wMx4eVNGn-JywhjzD0r-z0
+Задачи и ход работы: https://docs.google.com/document/d/1Y0fUfdvFIlJ8MoWPGJeUogQwxrGeas2IeGBL17puaiU
